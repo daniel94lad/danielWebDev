@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8652bc67be49485b2ccab2d14e41ac7",
+    "revision": "f39f57260c3da281799407042b1173d7",
     "url": "/danielWebDev/index.html"
   },
   {
-    "revision": "e98fcdad8d06cd695058",
+    "revision": "18a495746148cbf3db8c",
     "url": "/danielWebDev/static/css/2.3db4eb7d.chunk.css"
   },
   {
-    "revision": "ef62ddf1c1e5542b9cc0",
+    "revision": "136937ad1f7f4beea3b7",
     "url": "/danielWebDev/static/css/main.297ebd0f.chunk.css"
   },
   {
-    "revision": "e98fcdad8d06cd695058",
-    "url": "/danielWebDev/static/js/2.2b177c5c.chunk.js"
+    "revision": "18a495746148cbf3db8c",
+    "url": "/danielWebDev/static/js/2.60e890b4.chunk.js"
   },
   {
     "revision": "9a0e6ad7df4effc3aa6ea7f039958117",
-    "url": "/danielWebDev/static/js/2.2b177c5c.chunk.js.LICENSE.txt"
+    "url": "/danielWebDev/static/js/2.60e890b4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef62ddf1c1e5542b9cc0",
-    "url": "/danielWebDev/static/js/main.b02373db.chunk.js"
+    "revision": "136937ad1f7f4beea3b7",
+    "url": "/danielWebDev/static/js/main.3ca4d595.chunk.js"
   },
   {
     "revision": "b310d39e67066328dfee",
