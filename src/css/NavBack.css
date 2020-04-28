@@ -1,0 +1,26 @@
+.Special-Back h3{
+    font-family: 'Share', cursive
+}
+.Special-Back h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.Special-Back
+{
+    background: linear-gradient(-45deg,rgb(87, 98, 101),rgb(27, 28, 29),rgb(87, 98, 101),rgb(135, 141, 143));
+    background-size: 400% 400%;
+    animation: change 30s ease-in-out infinite;
+}
+@keyframes change
+{
+    0%{
+        background-position: 0 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%
+    {
+        background-position: 0 50%;
+    }
+}
