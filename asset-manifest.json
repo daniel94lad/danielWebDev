@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/danielWebDev/static/css/main.297ebd0f.chunk.css",
-    "main.js": "/danielWebDev/static/js/main.b9e23bef.chunk.js",
-    "main.js.map": "/danielWebDev/static/js/main.b9e23bef.chunk.js.map",
+    "main.js": "/danielWebDev/static/js/main.ef29e5c0.chunk.js",
+    "main.js.map": "/danielWebDev/static/js/main.ef29e5c0.chunk.js.map",
     "runtime-main.js": "/danielWebDev/static/js/runtime-main.c2bbb80b.js",
     "runtime-main.js.map": "/danielWebDev/static/js/runtime-main.c2bbb80b.js.map",
     "static/css/2.3db4eb7d.chunk.css": "/danielWebDev/static/css/2.3db4eb7d.chunk.css",
     "static/js/2.60e890b4.chunk.js": "/danielWebDev/static/js/2.60e890b4.chunk.js",
     "static/js/2.60e890b4.chunk.js.map": "/danielWebDev/static/js/2.60e890b4.chunk.js.map",
     "index.html": "/danielWebDev/index.html",
-    "precache-manifest.f1b6926922a8e1162f0d251f45f63c3c.js": "/danielWebDev/precache-manifest.f1b6926922a8e1162f0d251f45f63c3c.js",
+    "precache-manifest.5272c3e8d942582e3025111a1818dcc9.js": "/danielWebDev/precache-manifest.5272c3e8d942582e3025111a1818dcc9.js",
     "service-worker.js": "/danielWebDev/service-worker.js",
     "static/css/2.3db4eb7d.chunk.css.map": "/danielWebDev/static/css/2.3db4eb7d.chunk.css.map",
     "static/css/main.297ebd0f.chunk.css.map": "/danielWebDev/static/css/main.297ebd0f.chunk.css.map",
@@ -44,6 +44,6 @@
     "static/css/2.3db4eb7d.chunk.css",
     "static/js/2.60e890b4.chunk.js",
     "static/css/main.297ebd0f.chunk.css",
-    "static/js/main.b9e23bef.chunk.js"
+    "static/js/main.ef29e5c0.chunk.js"
   ]
 }
