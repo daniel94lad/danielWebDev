@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/danielWebDev/static/css/main.2b65c8e0.chunk.css",
+    "main.css": "/danielWebDev/static/css/main.d92c1e48.chunk.css",
     "main.js": "/danielWebDev/static/js/main.4423f4e2.chunk.js",
     "main.js.map": "/danielWebDev/static/js/main.4423f4e2.chunk.js.map",
     "runtime-main.js": "/danielWebDev/static/js/runtime-main.c2bbb80b.js",
@@ -9,10 +9,10 @@
     "static/js/2.60e890b4.chunk.js": "/danielWebDev/static/js/2.60e890b4.chunk.js",
     "static/js/2.60e890b4.chunk.js.map": "/danielWebDev/static/js/2.60e890b4.chunk.js.map",
     "index.html": "/danielWebDev/index.html",
-    "precache-manifest.563b93aaf1670f287badce791dc1ee95.js": "/danielWebDev/precache-manifest.563b93aaf1670f287badce791dc1ee95.js",
+    "precache-manifest.63ac9726528bb1e707ae9d2d5893519f.js": "/danielWebDev/precache-manifest.63ac9726528bb1e707ae9d2d5893519f.js",
     "service-worker.js": "/danielWebDev/service-worker.js",
     "static/css/2.3db4eb7d.chunk.css.map": "/danielWebDev/static/css/2.3db4eb7d.chunk.css.map",
-    "static/css/main.2b65c8e0.chunk.css.map": "/danielWebDev/static/css/main.2b65c8e0.chunk.css.map",
+    "static/css/main.d92c1e48.chunk.css.map": "/danielWebDev/static/css/main.d92c1e48.chunk.css.map",
     "static/js/2.60e890b4.chunk.js.LICENSE.txt": "/danielWebDev/static/js/2.60e890b4.chunk.js.LICENSE.txt",
     "static/media/About-me.svg": "/danielWebDev/static/media/About-me.0d44edf2.svg",
     "static/media/Arduino-Logo.svg": "/danielWebDev/static/media/Arduino-Logo.845262e4.svg",
@@ -43,7 +43,7 @@
     "static/js/runtime-main.c2bbb80b.js",
     "static/css/2.3db4eb7d.chunk.css",
     "static/js/2.60e890b4.chunk.js",
-    "static/css/main.2b65c8e0.chunk.css",
+    "static/css/main.d92c1e48.chunk.css",
     "static/js/main.4423f4e2.chunk.js"
   ]
 }
